@@ -1,0 +1,28 @@
+{
+  "name": "free_deliver",
+  "version": "1.0.0",
+  "description": "A prototype geolocation-based service",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiJunpeng/FreeDeliver.git"
+  },
+  "keywords": [
+    "geolocation"
+  ],
+  "author": "Junpeng Li",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiJunpeng/FreeDeliver/issues"
+  },
+  "homepage": "https://github.com/LiJunpeng/FreeDeliver#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "express-useragent": "^1.0.7",
+    "mongoose": "^4.6.0"
+  }
+}
